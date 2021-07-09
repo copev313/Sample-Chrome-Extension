@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Hashy Quick Launcher",
+    "description": "A quick launcher for the Hashy Codes",
+    "version": "1.0.0",
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [ "activeTab" ]
+
+}
